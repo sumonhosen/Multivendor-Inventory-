@@ -1,0 +1,31 @@
+<a href="" class="main show-mini-cart" data-id="1"> <span class="d-none d-md-inline">My Cart</span> <span class="fa fa-shopping-cart"></span> <span class="cart-count"><span id="total_count_by_ajax">3</span></span></a>
+
+<div id="list_popover" class="bottom">
+  <div class="arrow"></div>
+      <div id="cd-cart">
+      <h2>Cart</h2>
+      <ul class="cd-cart-items">
+                  <li>
+            <span class="cd-qty">7x</span>&nbsp;ALWAYS 21 FACE WASH ( 60 ML)
+            <div class="cd-price">Rs.1,890.00</div>
+            <a href="https://dropgenix.com/ceyone/remove_item/7" class="cd-item-remove cd-img-replace cart_quantity_delete"></a>
+          </li>
+                  <li>
+            <span class="cd-qty">4x</span>&nbsp;MOISTURIZING FAIRNESS CREAM ( 60GMS)
+            <div class="cd-price">Rs.1,160.00</div>
+            <a href="https://dropgenix.com/ceyone/remove_item/8" class="cd-item-remove cd-img-replace cart_quantity_delete"></a>
+          </li>
+                  <li>
+            <span class="cd-qty">1x</span>&nbsp;ALWAYS 21 FOOT CREAM 60G
+            <div class="cd-price">Rs.270.00</div>
+            <a href="https://dropgenix.com/ceyone/remove_item/9" class="cd-item-remove cd-img-replace cart_quantity_delete"></a>
+          </li>
+              </ul>
+
+      <div class="cd-cart-total">
+        <p>Total <span>Rs.3,320.00</span></p>
+      </div>
+
+      <a href="https://dropgenix.com/ceyone/checkout" class="checkout-btn">Checkout</a>
+    </div>
+  </div>
